@@ -358,8 +358,8 @@
     "auctionDay": "15",
     "issue": "4-week",
     "term": "28-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.355",
+    "price": "99.590889",
     "maturityDate": "20240917"
   },
   {
@@ -754,8 +754,8 @@
     "auctionDay": "15",
     "issue": "8-week",
     "term": "56-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.289",
+    "price": "99.195000",
     "maturityDate": "20241015"
   },
   {
@@ -1546,8 +1546,8 @@
     "auctionDay": "14",
     "issue": "17-week",
     "term": "119-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "5.134",
+    "price": "98.353833",
     "maturityDate": "20241217"
   },
   {
