@@ -1160,10 +1160,10 @@
     "auctionMonth": "08",
     "auctionDay": "19",
     "issue": "13-week",
-    "term": "92-day",
-    "investRate": "TBD",
-    "price": "TBD",
-    "maturityDate": "20241122"
+    "term": "91-day",
+    "investRate": "5.192",
+    "price": "98.722208",
+    "maturityDate": "20241121"
   },
   {
     "_id": 13202435,
@@ -1171,10 +1171,10 @@
     "auctionMonth": "08",
     "auctionDay": "29",
     "issue": "13-week",
-    "term": "91-day",
+    "term": "92-day",
     "investRate": "TBD",
     "price": "TBD",
-    "maturityDate": "20241128"
+    "maturityDate": "20241129"
   },
   {
     "_id": 13202436,
@@ -1953,8 +1953,8 @@
     "auctionDay": "19",
     "issue": "26-week",
     "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.956",
+    "price": "97.588500",
     "maturityDate": "20250220"
   },
   {
