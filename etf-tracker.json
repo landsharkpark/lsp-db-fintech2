@@ -1,0 +1,72 @@
+[
+  {
+    "manager": "OTHER",
+    "etfList": [
+      {
+        "symbol": "QQQ",
+        "title": "INVESCO QQQ TRUST",
+        "url": "https://finance.yahoo.com/quote/QQQ/",
+        "comments": [
+          "NASDAQ 100 Index - mirror",
+          "Expense ratio 0.20%"
+        ]
+      }
+    ]
+  },
+  {
+    "manager": "FIDELITY",
+    "etfList": [
+      {
+        "symbol": "FXAIX",
+        "title": "FIDELITY 500 INDEX",
+        "url": "https://finance.yahoo.com/quote/FXAIX/",
+        "comments": [
+          "Largest 500 companies by market cap",
+          "Expense ratio 0.01%"
+        ]
+      },
+      {
+        "symbol": "FSKAX",
+        "title": "FIDELITY TOTAL MARKET INDEX",
+        "url": "https://finance.yahoo.com/quote/FSKAX/",
+        "comments": [
+          "Blend to all publically traded stocks",
+          "Small (9%), Mid (20%), Large (71%)",
+          "Expense ratio 0.01%"
+        ]
+      },
+      {
+        "symbol": "FTIHX",
+        "title": "FIDELITY TOTAL INTERNATIONAL INDEX",
+        "url": "https://finance.yahoo.com/quote/FTIHX/",
+        "comments": [
+          "80% of assets in securities ex USA",
+          "Expense ratio 0.06%"
+        ]
+      }
+    ]
+  },
+  {
+    "manager": "VANGUARD",
+    "etfList": [
+      {
+        "symbol": "VOO",
+        "title": "VANGUARD S&P 500 ETF",
+        "url": "https://finance.yahoo.com/quote/VOO/",
+        "comments": [
+          "Largest 500 companies by market cap",
+          "Expense ratio 0.03%"
+        ]
+      },
+      {
+        "symbol": "VGT",
+        "title": "VANGUARD INFORMATION TECHNOLOGY INDEX FUND ETF",
+        "url": "https://finance.yahoo.com/quote/VGT/",
+        "comments": [
+          "Assets blend of large, mid-size, and small U.S. companies with IT sector (GICS)",
+          "Expense ratio 0.10%"
+        ]
+      }
+    ]
+  }
+]
