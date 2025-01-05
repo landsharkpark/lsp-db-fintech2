@@ -66,6 +66,15 @@
           "Assets blend of large, mid-size, and small U.S. companies with IT sector (GICS)",
           "Expense ratio 0.10%"
         ]
+      },
+      {
+        "symbol": "VTV",
+        "title": "VANGUARD VALUE INDEX FUND ETF",
+        "url": "https://finance.yahoo.com/quote/VTV/",
+        "comments": [
+          "designed to track the performance of the CRSP US Large Cap Value Index",
+          "Expense ratio 0.04%"
+        ]
       }
     ]
   }
