@@ -1,8 +1,10 @@
 [
   {
+    "_id": 1,
     "manager": "OTHER",
     "etfList": [
       {
+        "_etfId": 1001,
         "symbol": "QQQ",
         "title": "INVESCO QQQ TRUST",
         "url": "https://finance.yahoo.com/quote/QQQ/",
@@ -14,9 +16,11 @@
     ]
   },
   {
+    "_id": 2,
     "manager": "FIDELITY",
     "etfList": [
       {
+        "_etfId": 2001,
         "symbol": "FXAIX",
         "title": "FIDELITY 500 INDEX",
         "url": "https://finance.yahoo.com/quote/FXAIX/",
@@ -26,6 +30,7 @@
         ]
       },
       {
+        "_etfId": 2002,
         "symbol": "FSKAX",
         "title": "FIDELITY TOTAL MARKET INDEX",
         "url": "https://finance.yahoo.com/quote/FSKAX/",
@@ -36,6 +41,7 @@
         ]
       },
       {
+        "_etfId": 2003,
         "symbol": "FTIHX",
         "title": "FIDELITY TOTAL INTERNATIONAL INDEX",
         "url": "https://finance.yahoo.com/quote/FTIHX/",
@@ -47,9 +53,11 @@
     ]
   },
   {
+    "_id": 3,
     "manager": "VANGUARD",
     "etfList": [
       {
+        "_etfId": 3001,
         "symbol": "VOO",
         "title": "VANGUARD S&P 500 ETF",
         "url": "https://finance.yahoo.com/quote/VOO/",
@@ -59,6 +67,7 @@
         ]
       },
       {
+        "_etfId": 3002,
         "symbol": "VGT",
         "title": "VANGUARD INFORMATION TECHNOLOGY INDEX FUND ETF",
         "url": "https://finance.yahoo.com/quote/VGT/",
@@ -68,6 +77,7 @@
         ]
       },
       {
+        "_etfId": 3003,
         "symbol": "VTV",
         "title": "VANGUARD VALUE INDEX FUND ETF",
         "url": "https://finance.yahoo.com/quote/VTV/",
