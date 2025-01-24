@@ -1,91 +1,80 @@
 [
   {
-    "_id": 1,
+    "_id": 1001,
     "manager": "OTHER",
-    "etfList": [
-      {
-        "_etfId": 1001,
-        "symbol": "QQQ",
-        "title": "INVESCO QQQ TRUST",
-        "url": "https://finance.yahoo.com/quote/QQQ/",
-        "comments": [
-          "NASDAQ 100 Index - mirror",
-          "Expense ratio 0.20%"
-        ]
-      }
+    "symbol": "QQQ",
+    "title": "INVESCO QQQ TRUST",
+    "url": "https://finance.yahoo.com/quote/QQQ/",
+    "comments": [
+      "NASDAQ 100 Index - mirror",
+      "Expense ratio 0.20%"
     ]
   },
   {
-    "_id": 2,
+    "_id": 2001,
     "manager": "FIDELITY",
-    "etfList": [
-      {
-        "_etfId": 2001,
-        "symbol": "FXAIX",
-        "title": "FIDELITY 500 INDEX",
-        "url": "https://finance.yahoo.com/quote/FXAIX/",
-        "comments": [
-          "Largest 500 companies by market cap",
-          "Expense ratio 0.01%"
-        ]
-      },
-      {
-        "_etfId": 2002,
-        "symbol": "FSKAX",
-        "title": "FIDELITY TOTAL MARKET INDEX",
-        "url": "https://finance.yahoo.com/quote/FSKAX/",
-        "comments": [
-          "Blend to all publically traded stocks",
-          "Small (9%), Mid (20%), Large (71%)",
-          "Expense ratio 0.01%"
-        ]
-      },
-      {
-        "_etfId": 2003,
-        "symbol": "FTIHX",
-        "title": "FIDELITY TOTAL INTERNATIONAL INDEX",
-        "url": "https://finance.yahoo.com/quote/FTIHX/",
-        "comments": [
-          "80% of assets in securities ex USA",
-          "Expense ratio 0.06%"
-        ]
-      }
+    "symbol": "FXAIX",
+    "title": "FIDELITY 500 INDEX",
+    "url": "https://finance.yahoo.com/quote/FXAIX/",
+    "comments": [
+      "Largest 500 companies by market cap",
+      "Expense ratio 0.01%"
     ]
   },
   {
-    "_id": 3,
+    "_id": 2002,
+    "manager": "FIDELITY",
+    "symbol": "FSKAX",
+    "title": "FIDELITY TOTAL MARKET INDEX",
+    "url": "https://finance.yahoo.com/quote/FSKAX/",
+    "comments": [
+      "Blend to all publically traded stocks",
+      "Small (9%), Mid (20%), Large (71%)",
+      "Expense ratio 0.01%"
+    ]
+  },
+  {
+    "_id": 2003,
+    "manager": "FIDELITY",
+    "symbol": "FTIHX",
+    "title": "FIDELITY TOTAL INTERNATIONAL INDEX",
+    "url": "https://finance.yahoo.com/quote/FTIHX/",
+    "comments": [
+      "80% of assets in securities ex USA",
+      "Expense ratio 0.06%"
+    ]
+  },
+  {
+    "_id": 3001,
     "manager": "VANGUARD",
-    "etfList": [
-      {
-        "_etfId": 3001,
-        "symbol": "VOO",
-        "title": "VANGUARD S&P 500 ETF",
-        "url": "https://finance.yahoo.com/quote/VOO/",
-        "comments": [
-          "Largest 500 companies by market cap",
-          "Expense ratio 0.03%"
-        ]
-      },
-      {
-        "_etfId": 3002,
-        "symbol": "VGT",
-        "title": "VANGUARD INFORMATION TECHNOLOGY INDEX FUND ETF",
-        "url": "https://finance.yahoo.com/quote/VGT/",
-        "comments": [
-          "Assets blend of large, mid-size, and small U.S. companies with IT sector (GICS)",
-          "Expense ratio 0.10%"
-        ]
-      },
-      {
-        "_etfId": 3003,
-        "symbol": "VTV",
-        "title": "VANGUARD VALUE INDEX FUND ETF",
-        "url": "https://finance.yahoo.com/quote/VTV/",
-        "comments": [
-          "designed to track the performance of the CRSP US Large Cap Value Index",
-          "Expense ratio 0.04%"
-        ]
-      }
+    "symbol": "VOO",
+    "title": "VANGUARD S&P 500 ETF",
+    "url": "https://finance.yahoo.com/quote/VOO/",
+    "comments": [
+      "Largest 500 companies by market cap",
+      "Expense ratio 0.03%"
+    ]
+  },
+  {
+    "_id": 3002,
+    "manager": "VANGUARD",
+    "symbol": "VGT",
+    "title": "VANGUARD INFORMATION TECHNOLOGY INDEX FUND ETF",
+    "url": "https://finance.yahoo.com/quote/VGT/",
+    "comments": [
+      "Assets blend of large, mid-size, and small U.S. companies with IT sector (GICS)",
+      "Expense ratio 0.10%"
+    ]
+  },
+  {
+    "_id": 3003,
+    "manager": "VANGUARD",
+    "symbol": "VTV",
+    "title": "VANGUARD VALUE INDEX FUND ETF",
+    "url": "https://finance.yahoo.com/quote/VTV/",
+    "comments": [
+      "designed to track the performance of the CRSP US Large Cap Value Index",
+      "Expense ratio 0.04%"
     ]
   }
 ]
