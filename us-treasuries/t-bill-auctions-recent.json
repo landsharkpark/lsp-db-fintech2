@@ -104,10 +104,10 @@
     "auctionMonth": "03",
     "auctionDay": "17",
     "issue": "13-week",
-    "term": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
-    "maturityDate": "20250619"
+    "term": "92-day",
+    "investRate": "4.310",
+    "price": "98.925389",
+    "maturityDate": "20250620"
   },
   {
     "_id": 26202512,
@@ -116,8 +116,8 @@
     "auctionDay": "17",
     "issue": "26-week",
     "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.245",
+    "price": "97.927222",
     "maturityDate": "20250918"
   },
   {
@@ -240,6 +240,72 @@
     "investRate": "TBD",
     "price": "TBD",
     "maturityDate": "20250527"
+  },
+  {
+    "_id": 13202514,
+    "auctionYear": "2025",
+    "auctionMonth": "03",
+    "auctionDay": "31",
+    "issue": "13-week",
+    "term": "91-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250703"
+  },
+  {
+    "_id": 26202514,
+    "auctionYear": "2025",
+    "auctionMonth": "03",
+    "auctionDay": "31",
+    "issue": "26-week",
+    "term": "182-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20251002"
+  },
+  {
+    "_id": 6202514,
+    "auctionYear": "2025",
+    "auctionMonth": "04",
+    "auctionDay": "01",
+    "issue": "6-week",
+    "term": "42-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250508"
+  },
+  {
+    "_id": 17202514,
+    "auctionYear": "2025",
+    "auctionMonth": "04",
+    "auctionDay": "02",
+    "issue": "17-week",
+    "term": "119-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250729"
+  },
+  {
+    "_id": 4202514,
+    "auctionYear": "2025",
+    "auctionMonth": "04",
+    "auctionDay": "03",
+    "issue": "4-week",
+    "term": "28-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250506"
+  },
+  {
+    "_id": 8202514,
+    "auctionYear": "2025",
+    "auctionMonth": "04",
+    "auctionDay": "03",
+    "issue": "8-week",
+    "term": "56-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250603"
   },
 
   {
