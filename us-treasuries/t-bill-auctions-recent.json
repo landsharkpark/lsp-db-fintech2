@@ -50,9 +50,9 @@
     "auctionDay": "27",
     "issue": "4-week",
     "term": "28-day",
-    "investRate": "TBD",
-    "price": "TBD",
-    "maturityDate": "20250430"
+    "investRate": "4.293",
+    "price": "99.671778",
+    "maturityDate": "20250429"
   },
   {
     "_id": 8202513,
@@ -61,8 +61,8 @@
     "auctionDay": "27",
     "issue": "8-week",
     "term": "56-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.333",
+    "price": "99.339667",
     "maturityDate": "20250527"
   },
   {
