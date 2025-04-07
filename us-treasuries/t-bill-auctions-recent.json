@@ -105,8 +105,8 @@
     "auctionDay": "02",
     "issue": "17-week",
     "term": "119-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.318",
+    "price": "98.611667",
     "maturityDate": "20250805"
   },
   {
@@ -116,8 +116,8 @@
     "auctionDay": "03",
     "issue": "4-week",
     "term": "28-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.313",
+    "price": "99.670222",
     "maturityDate": "20250506"
   },
   {
@@ -127,8 +127,8 @@
     "auctionDay": "03",
     "issue": "8-week",
     "term": "56-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "4.327",
+    "price": "99.340444",
     "maturityDate": "20250603"
   },
   {
@@ -376,8 +376,8 @@
   {
     "_id": 17202518,
     "auctionYear": "2025",
-    "auctionMonth": "05",
-    "auctionDay": "01",
+    "auctionMonth": "04",
+    "auctionDay": "30",
     "issue": "17-week",
     "term": "119-day",
     "investRate": "TBD",
@@ -405,6 +405,72 @@
     "investRate": "TBD",
     "price": "TBD",
     "maturityDate": "20250701"
+  },
+  {
+    "_id": 13202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "05",
+    "issue": "13-week",
+    "term": "91-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250807"
+  },
+  {
+    "_id": 26202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "05",
+    "issue": "26-week",
+    "term": "182-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20251106"
+  },
+  {
+    "_id": 6202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "06",
+    "issue": "6-week",
+    "term": "42-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250620"
+  },
+  {
+    "_id": 17202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "07",
+    "issue": "17-week",
+    "term": "119-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250909"
+  },
+  {
+    "_id": 4202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "08",
+    "issue": "4-week",
+    "term": "28-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250610"
+  },
+  {
+    "_id": 8202519,
+    "auctionYear": "2025",
+    "auctionMonth": "05",
+    "auctionDay": "08",
+    "issue": "8-week",
+    "term": "56-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20250708"
   },
 
   {
