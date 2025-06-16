@@ -214,9 +214,9 @@
     "auctionMonth": "06",
     "auctionDay": "16",
     "issue": "13-week",
-    "term": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "term": "90-day",
+    "investRate": "4.345",
+    "price": "98.940000",
     "maturityDate": "20250918"
   },
   {
@@ -225,9 +225,9 @@
     "auctionMonth": "06",
     "auctionDay": "16",
     "issue": "26-week",
-    "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "term": "181-day",
+    "investRate": "4.303",
+    "price": "97.910958",
     "maturityDate": "20251218"
   },
   {
