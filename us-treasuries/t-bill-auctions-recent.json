@@ -215,8 +215,8 @@
     "auctionDay": "14",
     "issue": "13-week",
     "term": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.937",
+    "price": "99.028069",
     "maturityDate": "20260115"
   },
   {
@@ -226,8 +226,8 @@
     "auctionDay": "14",
     "issue": "26-week",
     "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.807",
+    "price": "98.137028",
     "maturityDate": "20260416"
   },
   {
@@ -236,10 +236,10 @@
     "auctionMonth": "10",
     "auctionDay": "14",
     "issue": "6-week",
-    "term": "42-day",
-    "investRate": "TBD",
-    "price": "TBD",
-    "maturityDate": "20251127"
+    "term": "43-day",
+    "investRate": "4.085",
+    "price": "99.521028",
+    "maturityDate": "20251128"
   },
   {
     "_id": 17202542,
