@@ -493,10 +493,10 @@
     "term": "364-day",
     "investRate": "TBD",
     "price": "TBD",
-    "maturityDate": "20261219"
+    "maturityDate": "20261224"
   },
   {
-    "_id": 522026313,
+    "_id": 522026301,
     "auctionYear": "2026",
     "auctionMonth": "01",
     "auctionDay": "20",
@@ -504,7 +504,40 @@
     "term": "364-day",
     "investRate": "TBD",
     "price": "TBD",
-    "maturityDate": "20270116"
+    "maturityDate": "20270121"
+  },
+  {
+    "_id": 522026302,
+    "auctionYear": "2026",
+    "auctionMonth": "02",
+    "auctionDay": "17",
+    "issue": "52-week",
+    "term": "364-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20270218"
+  },
+  {
+    "_id": 522026303,
+    "auctionYear": "2026",
+    "auctionMonth": "03",
+    "auctionDay": "17",
+    "issue": "52-week",
+    "term": "364-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20270318"
+  },
+  {
+    "_id": 522026304,
+    "auctionYear": "2026",
+    "auctionMonth": "04",
+    "auctionDay": "14",
+    "issue": "52-week",
+    "term": "364-day",
+    "investRate": "TBD",
+    "price": "TBD",
+    "maturityDate": "20270415"
   }
 
 
