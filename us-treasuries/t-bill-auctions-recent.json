@@ -1,288 +1,13 @@
 [
   {
-    "_id": 13202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "26",
-    "issue": "13-week",
-    "term": "91-day",
-    "investRate": "3.678",
-    "price": "99.091264",
-    "maturityDate": "20260827"
-  },
-  {
-    "_id": 26202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "26",
-    "issue": "26-week",
-    "term": "183-day",
-    "investRate": "3.771",
-    "price": "98.144583",
-    "maturityDate": "20261127"
-  },
-  {
-    "_id": 6202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "26",
-    "issue": "6-week",
-    "term": "42-day",
-    "investRate": "3.686",
-    "price": "99.577667",
-    "maturityDate": "20260709"
-  },
-  {
-    "_id": 17202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "27",
-    "issue": "17-week",
-    "term": "119-day",
-    "investRate": "3.725",
-    "price": "98.800083",
-    "maturityDate": "20260929"
-  },
-  {
-    "_id": 4202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "28",
-    "issue": "4-week",
-    "term": "28-day",
-    "investRate": "3.691",
-    "price": "99.717667",
-    "maturityDate": "20260630"
-  },
-  {
-    "_id": 8202621,
-    "auctionYear": "2026",
-    "auctionMonth": "05",
-    "auctionDay": "28",
-    "issue": "8-week",
-    "term": "56-day",
-    "investRate": "3.686",
-    "price": "99.437667",
-    "maturityDate": "20260728"
-  },
-  {
-    "_id": 13202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "01",
-    "issue": "13-week",
-    "term": "91-day",
-    "investRate": "3.714",
-    "price": "99.082417",
-    "maturityDate": "20260903"
-  },
-  {
-    "_id": 26202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "01",
-    "issue": "26-week",
-    "term": "182-day",
-    "investRate": "3.786",
-    "price": "98.147139",
-    "maturityDate": "20261203"
-  },
-  {
-    "_id": 6202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "02",
-    "issue": "6-week",
-    "term": "42-day",
-    "investRate": "3.691",
-    "price": "99.577083",
-    "maturityDate": "20260716"
-  },
-  {
-    "_id": 17202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "03",
-    "issue": "17-week",
-    "term": "119-day",
-    "investRate": "3.730",
-    "price": "98.798431",
-    "maturityDate": "20261006"
-  },
-  {
-    "_id": 4202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "04",
-    "issue": "4-week",
-    "term": "28-day",
-    "investRate": "3.676",
-    "price": "99.718833",
-    "maturityDate": "20260707"
-  },
-  {
-    "_id": 8202622,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "04",
-    "issue": "8-week",
-    "term": "56-day",
-    "investRate": "3.681",
-    "price": "99.438444",
-    "maturityDate": "20260804"
-  },
-  {
-    "_id": 13202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "08",
-    "issue": "13-week",
-    "term": "91-day",
-    "investRate": "3.725",
-    "price": "99.079889",
-    "maturityDate": "20260910"
-  },
-  {
-    "_id": 26202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "08",
-    "issue": "26-week",
-    "term": "182-day",
-    "investRate": "3.812",
-    "price": "98.134500",
-    "maturityDate": "20261210"
-  },
-  {
-    "_id": 6202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "09",
-    "issue": "6-week",
-    "term": "42-day",
-    "investRate": "3.665",
-    "price": "99.580000",
-    "maturityDate": "20260723"
-  },
-  {
-    "_id": 52202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "09",
-    "issue": "52-week",
-    "term": "364-day",
-    "investRate": "3.941",
-    "price": "96.208333",
-    "maturityDate": "20270610"
-  },
-  {
-    "_id": 17202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "10",
-    "issue": "17-week",
-    "term": "119-day",
-    "investRate": "3.761",
-    "price": "98.788514",
-    "maturityDate": "20261013"
-  },
-  {
-    "_id": 4202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "11",
-    "issue": "4-week",
-    "term": "28-day",
-    "investRate": "3.655",
-    "price": "99.720389",
-    "maturityDate": "20260714"
-  },
-  {
-    "_id": 8202623,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "11",
-    "issue": "8-week",
-    "term": "56-day",
-    "investRate": "3.681",
-    "price": "99.438444",
-    "maturityDate": "20260811"
-  },
-  {
-    "_id": 13202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "15",
-    "issue": "13-week",
-    "term": "91-day",
-    "investRate": "3.725",
-    "price": "99.079889",
-    "maturityDate": "20260917"
-  },
-  {
-    "_id": 26202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "15",
-    "issue": "26-week",
-    "term": "182-day",
-    "investRate": "3.802",
-    "price": "98.139556",
-    "maturityDate": "20261217"
-  },
-  {
-    "_id": 6202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "16",
-    "issue": "6-week",
-    "term": "42-day",
-    "investRate": "3.665",
-    "price": "99.580000",
-    "maturityDate": "20260730"
-  },
-  {
-    "_id": 17202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "17",
-    "issue": "17-week",
-    "term": "119-day",
-    "investRate": "3.767",
-    "price": "98.786861",
-    "maturityDate": "20261020"
-  },
-  {
-    "_id": 4202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "18",
-    "issue": "4-week",
-    "term": "28-day",
-    "investRate": "3.640",
-    "price": "99.721556",
-    "maturityDate": "20260721"
-  },
-  {
-    "_id": 8202624,
-    "auctionYear": "2026",
-    "auctionMonth": "06",
-    "auctionDay": "18",
-    "issue": "8-week",
-    "term": "56-day",
-    "investRate": "3.712",
-    "price": "99.433778",
-    "maturityDate": "20260818"
-  },
-  {
     "_id": 13202625,
     "auctionYear": "2026",
     "auctionMonth": "06",
     "auctionDay": "22",
     "issue": "13-week",
     "term": "91-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.782",
+    "price": "99.065986",
     "maturityDate": "20260924"
   },
   {
@@ -292,8 +17,8 @@
     "auctionDay": "22",
     "issue": "26-week",
     "term": "182-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.970",
+    "price": "98.058667",
     "maturityDate": "20261224"
   },
   {
@@ -303,8 +28,8 @@
     "auctionDay": "23",
     "issue": "6-week",
     "term": "42-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.686",
+    "price": "99.577667",
     "maturityDate": "20260806"
   },
   {
@@ -314,8 +39,8 @@
     "auctionDay": "24",
     "issue": "17-week",
     "term": "119-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.871",
+    "price": "98.753806",
     "maturityDate": "20261027"
   },
   {
@@ -325,8 +50,8 @@
     "auctionDay": "25",
     "issue": "4-week",
     "term": "28-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.670",
+    "price": "99.719222",
     "maturityDate": "20260728"
   },
   {
@@ -336,8 +61,8 @@
     "auctionDay": "25",
     "issue": "8-week",
     "term": "56-day",
-    "investRate": "TBD",
-    "price": "TBD",
+    "investRate": "3.732",
+    "price": "99.430667",
     "maturityDate": "20260825"
   },
   {
